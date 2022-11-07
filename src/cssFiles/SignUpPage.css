@@ -1,0 +1,29 @@
+.SignUpPage{
+    width: 25rem;
+    height: 13rem;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 10rem;
+}
+
+.SignUpPage .userName, .password, .email{
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.SignUpPage input{
+    padding-left: 1rem;
+    margin-left: 0.5rem;
+}
+.SignUpPage .submit{
+    text-align: center;
+}
+.SignUpPage button{
+    width: 70%;
+}
+.SignUpPage .email input{
+    margin-left: 2.4rem;
+}
