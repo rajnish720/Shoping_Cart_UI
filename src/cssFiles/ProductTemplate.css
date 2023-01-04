@@ -11,7 +11,7 @@
 }
 
 .ProductTemplate .details{
-    /* background-color: rgb(221, 214, 200); */
+    background-color: rgb(221, 214, 200);
     /* width: 33%; */
     height: 25rem;
     min-width: 18rem;
